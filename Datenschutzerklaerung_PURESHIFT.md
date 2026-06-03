@@ -6,7 +6,7 @@ Verantwortlich für die Datenverarbeitung im Zusammenhang mit der App **PURESHIF
 
 **[Adonis Japalak]**
 
-E-Mail: [nextexchangestudio@gmail.com]
+E-Mail: [NextExchangeStudio@proton.me]
 
 > Bitte ergänzen Sie diese Angaben vor der Veröffentlichung im App Store / Play Store.
 
@@ -66,4 +66,4 @@ Diese Datenschutzerklärung kann angepasst werden, wenn sich die App oder die Re
 
 ## 13. Kontakt
 Bei Fragen zum Datenschutz wenden Sie sich bitte an:
-[nextexchangestudio@gmail.com]
+[NextExchangeStudio@proton.me]
